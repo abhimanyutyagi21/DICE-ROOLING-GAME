@@ -1,1 +1,2 @@
 # DICE-ROOLING-GAME
+This is a simple, text-based Python game that simulates rolling two six-sided dice. When the program runs, it repeatedly prompts the user to roll the dice by entering "y" or exit the game by entering "n". If the user chooses to roll, the game generates two random numbers between 1 and 6 (representing the dice), and displays them on the screen. If the user chooses not to roll, the game thanks them and ends. Any invalid input results in an error message, prompting the user to enter a valid option.
